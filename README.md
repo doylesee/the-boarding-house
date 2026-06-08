@@ -44,4 +44,4 @@ Enabled a small local business to run a highly polished online catalog and commu
 **Community-Centric Web Experience**<br />
 Delivered a modern, classic layout that perfectly balanced product showcasing with authentic skate culture elements, smoothly scaling across all screen sizes and modern web browsers.
 
-<br /><strong><a href="https://theboardinghouseskate.tumblr.com/">View project</a></stron   
+<br /><strong><a href="https://theboardinghouseskate.tumblr.com/">View project</a></strong>
