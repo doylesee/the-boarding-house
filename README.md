@@ -4,9 +4,9 @@
 <b>Role:</b>    Brand Identity Designer, UI/UX Designer, & Lead UI Developer
 <b>Tools:</b>   Photoshop, Tumblr, HTML, CSS, JS/jQuery, Google Maps API
 </pre>
-&nbsp;<strong><a href="https://theboardinghouseskate.tumblr.com/">View project</a></strong>
+&nbsp;<strong><a href="https://theboardinghouseskate.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
 
-<p><a href="https://theboardinghouseskate.tumblr.com/"><img src="https://doylesee.github.io/the-boarding-house/thumbnail.jpg" /></a></p>
+<p><a href="https://theboardinghouseskate.tumblr.com/" rel="noopener noreferrer"><img src="https://doylesee.github.io/the-boarding-house/thumbnail.jpg" /></a></p>
 <br />
 
 ## The Challenge
@@ -44,4 +44,4 @@ Enabled a small local business to run a highly polished online catalog and commu
 **Community-Centric Web Experience**<br />
 Delivered a modern, classic layout that perfectly balanced product showcasing with authentic skate culture elements, smoothly scaling across all screen sizes and modern web browsers.
 
-<br /><strong><a href="https://theboardinghouseskate.tumblr.com/">View project</a></strong>
+<br /><strong><a href="https://theboardinghouseskate.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
