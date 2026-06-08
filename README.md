@@ -35,13 +35,13 @@ As always, during the engineering phase, I utilized Foundation to ensure the ent
 <br />
 
 ## Results & Impact
-**End-to-End Brand Launch**<br />
+✅ **End-to-End Brand Launch**<br />
 Successfully established a complete, recognizable brand identity and digital presence for a business just starting out, handling everything from logo design to frontend deployment.
 
-**High-Impact, Zero-Overhead Hub**<br />
+✅ **High-Impact, Zero-Overhead Hub**<br />
 Enabled a small local business to run a highly polished online catalog and community site with completely zero monthly hosting costs or platform maintenance fees.
 
-**Community-Centric Web Experience**<br />
+✅ **Community-Centric Web Experience**<br />
 Delivered a modern, classic layout that perfectly balanced product showcasing with authentic skate culture elements, smoothly scaling across all screen sizes and modern web browsers.
 
 <br /><strong><a href="https://theboardinghouseskate.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
