@@ -4,9 +4,12 @@
 <b>Role:</b>    Brand Identity Designer, UI/UX Designer, & Lead UI Developer
 <b>Tools:</b>   Photoshop, Tumblr, HTML, CSS, JS/jQuery, Google Maps API
 </pre>
-&nbsp;<strong><a href="https://theboardinghouseskate.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
 
-<p><a href="https://theboardinghouseskate.tumblr.com/" rel="noopener noreferrer"><img src="https://doylesee.github.io/the-boarding-house/thumbnail.jpg" /></a></p>
+### Table of Contents
+* [The Challenge](#the-challenge)
+* [My Approach & Implementation](#my-approach--implementation)
+* [Results & Impact](#results--impact)
+* [View Project](https://theboardinghouseskate.tumblr.com/)
 <br />
 
 ## The Challenge
