@@ -12,6 +12,10 @@
 * [View Project](https://theboardinghouseskate.tumblr.com/)
 <br />
 
+<a href="https://theboardinghouseskate.tumblr.com">
+  <img src="screenshot.jpg" alt="" width="100%">
+</a>
+
 ## The Challenge
 As a brand just starting out, The Boarding House Skateshop needed to build its entire presence from the ground up. They required a cohesive visual identity that captured the modern yet classic look of skate culture, alongside their very first website to act as a digital catalog for their merch. Because they were a grassroots, local startup, they lacked pre-existing brand assets and wanted to keep their startup costs as low as possible.
 
